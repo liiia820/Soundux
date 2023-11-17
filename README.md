@@ -11,7 +11,7 @@
 
 
 
-<hr/>
+<hr  
 
 <div align="center">
   <p>
